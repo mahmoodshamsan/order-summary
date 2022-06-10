@@ -1,0 +1,105 @@
+body {
+  text-align: center;
+  margin: 0;
+  background-color: #DFF6FF;
+}
+.pay {
+  background-color: #f8f9fe;
+  margin: 0 auto 0 auto;
+  width: 65%;
+  height: 93px;
+  border-radius: 15px;
+  text-align: center;
+  position: relative;
+}
+.btn {
+  display: block;
+  -webkit-border-radius: 20;
+  -moz-border-radius: 20;
+  border-radius: 20px;
+  -webkit-box-shadow: 0px 8px 25px #454347;
+  -moz-box-shadow: 0px 8px 25px #454347;
+  box-shadow: 0px 8px 25px #454347;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #4b14ff;
+  padding: 19px 40px 19px 40px;
+  text-decoration: none;
+  margin: 0 auto 0 auto;
+  margin-top: 30px;
+  margin-bottom: 35px;
+  width: 50%;
+}
+
+.btn:hover {
+  background: #ffea00;
+  background-image: -webkit-linear-gradient(top, #ffea00, #bf49ad);
+  background-image: -moz-linear-gradient(top, #ffea00, #bf49ad);
+  background-image: -ms-linear-gradient(top, #ffea00, #bf49ad);
+  background-image: -o-linear-gradient(top, #ffea00, #bf49ad);
+  background-image: linear-gradient(to bottom, #ffea00, #bf49ad);
+  text-decoration: none;
+}
+.cancel {
+  text-decoration: none;
+  font-weight: bolder;
+  color: #9ca2b4;
+  font-family: Arial;
+}
+.cancel:hover {
+  color: blue;
+}
+.icon{
+  float: left;
+  position: absolute;
+  bottom: 22px;
+  left: 10px;
+  margin-left: 10px;
+}
+img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+.left {
+  margin-right: 25px;
+  margin-top: 10px;
+  line-height: 1;
+  color: #9ca2b4;
+}
+.change {
+position: absolute;
+bottom: 35px;
+right: 25px;
+font-weight: bold;
+}
+.change:hover {
+  color: red;
+}
+.plan {
+  padding-top: 20px;
+  margin-bottom: 2px;
+}
+.same {
+  position: relative;
+  right: 20px;
+  margin-left: 30px;
+  font-weight: 800;
+}
+.para {
+  margin: 0 auto 0 auto;
+  width: 60%;
+  font-weight: 600;
+  color: #9ca2b4;
+  font-family: Arial;
+  line-height: 2;
+}
+.whole {
+margin: 0 auto 0 auto;
+width: 451px;
+background-color: white;
+margin-top: 50px;
+border-radius: 20px;
+padding-bottom: 60px;
+margin-bottom: 50px;
+}
